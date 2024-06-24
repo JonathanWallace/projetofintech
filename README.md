@@ -13,10 +13,6 @@ Tabelas para consultar seus registros e filtrar por data, categoria e valor.
 Como utilizar:  
 Faça o download: Baixe o projeto do repositório no GitHub.  
 Abra o index.html: Utilize um navegador web para visualizar o projeto.  
-Comece a gerenciar suas finanças: Cadastre seus rendimentos, despesas e investimentos, e acompanhe suas finanças com os relatórios gerados pelo sistema.  
-Contribuições:  
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, enviar pull requests ou entrar em contato para sugestões e melhorias.  
+Comece a gerenciar suas finanças: Cadastre seus rendimentos, despesas e investimentos, e acompanhe suas finanças com os relatórios gerados pelo sistema.
 Licença:  
-Este projeto está licenciado sob a MIT License.  
-Observação:  
-O FinControl é um projeto inicial e ainda está em desenvolvimento. Novas funcionalidades serão adicionadas ao longo do tempo.  
+Este projeto está licenciado sob a MIT License.
